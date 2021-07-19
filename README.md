@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/luisalexleite/ilovedourotv/blob/main/img/logo-i-love-douro-tv.png" />
+  <img src="https://github.com/luisalexleite/ilovedourotv/blob/main/logo-i-love-douro-tv.png" />
 </p>
 
 # I Love Douro TV
