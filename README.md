@@ -4,7 +4,7 @@
 
 # I Love Douro TV
 
-[I Love Douro Tv](ilovedourotv.com) is an platform to publish videos directally from Youtube (using Youtube Data API v3.0).
+[I Love Douro Tv](https://www.ilovedourotv.com) is an platform to publish videos directally from Youtube (using Youtube Data API v3.0).
 
 Features:
 
